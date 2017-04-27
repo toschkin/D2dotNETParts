@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2SecService", "D2SecService\D2SecService.csproj", "{A1EDCFBF-54A2-48A9-82CB-8005CC7104D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2UserHost", "D2UserHost\D2UserHost.csproj", "{47E62824-07C2-4A19-9F40-6B6FD51DE177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2UserClient", "D2UserClient\D2UserClient.csproj", "{F8C90D09-2F21-47E9-895B-77C19035DDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{99A9556D-E8E1-4701-84EB-20D664A8C78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1EDCFBF-54A2-48A9-82CB-8005CC7104D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1EDCFBF-54A2-48A9-82CB-8005CC7104D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1EDCFBF-54A2-48A9-82CB-8005CC7104D6}.Debug|x86.ActiveCfg = Debug|x86
+		{A1EDCFBF-54A2-48A9-82CB-8005CC7104D6}.Debug|x86.Build.0 = Debug|x86
+		{A1EDCFBF-54A2-48A9-82CB-8005CC7104D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1EDCFBF-54A2-48A9-82CB-8005CC7104D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1EDCFBF-54A2-48A9-82CB-8005CC7104D6}.Release|x86.ActiveCfg = Release|x86
+		{A1EDCFBF-54A2-48A9-82CB-8005CC7104D6}.Release|x86.Build.0 = Release|x86
+		{47E62824-07C2-4A19-9F40-6B6FD51DE177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E62824-07C2-4A19-9F40-6B6FD51DE177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E62824-07C2-4A19-9F40-6B6FD51DE177}.Debug|x86.ActiveCfg = Debug|x86
+		{47E62824-07C2-4A19-9F40-6B6FD51DE177}.Debug|x86.Build.0 = Debug|x86
+		{47E62824-07C2-4A19-9F40-6B6FD51DE177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E62824-07C2-4A19-9F40-6B6FD51DE177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E62824-07C2-4A19-9F40-6B6FD51DE177}.Release|x86.ActiveCfg = Release|x86
+		{47E62824-07C2-4A19-9F40-6B6FD51DE177}.Release|x86.Build.0 = Release|x86
+		{F8C90D09-2F21-47E9-895B-77C19035DDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C90D09-2F21-47E9-895B-77C19035DDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C90D09-2F21-47E9-895B-77C19035DDEA}.Debug|x86.ActiveCfg = Debug|x86
+		{F8C90D09-2F21-47E9-895B-77C19035DDEA}.Debug|x86.Build.0 = Debug|x86
+		{F8C90D09-2F21-47E9-895B-77C19035DDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C90D09-2F21-47E9-895B-77C19035DDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C90D09-2F21-47E9-895B-77C19035DDEA}.Release|x86.ActiveCfg = Release|x86
+		{F8C90D09-2F21-47E9-895B-77C19035DDEA}.Release|x86.Build.0 = Release|x86
+		{99A9556D-E8E1-4701-84EB-20D664A8C78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A9556D-E8E1-4701-84EB-20D664A8C78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A9556D-E8E1-4701-84EB-20D664A8C78C}.Debug|x86.ActiveCfg = Debug|x86
+		{99A9556D-E8E1-4701-84EB-20D664A8C78C}.Debug|x86.Build.0 = Debug|x86
+		{99A9556D-E8E1-4701-84EB-20D664A8C78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A9556D-E8E1-4701-84EB-20D664A8C78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A9556D-E8E1-4701-84EB-20D664A8C78C}.Release|x86.ActiveCfg = Release|x86
+		{99A9556D-E8E1-4701-84EB-20D664A8C78C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://toschkin.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = D2SecService\\D2SecService.csproj
+		SccProjectName1 = D2SecService
+		SccLocalPath1 = D2SecService
+		SccProjectUniqueName2 = D2UserClient\\D2UserClient.csproj
+		SccProjectName2 = D2UserClient
+		SccLocalPath2 = D2UserClient
+		SccProjectUniqueName3 = D2UserHost\\D2UserHost.csproj
+		SccProjectName3 = D2UserHost
+		SccLocalPath3 = D2UserHost
+		SccProjectUniqueName4 = ConsoleClient\\ConsoleClient.csproj
+		SccProjectName4 = ConsoleClient
+		SccLocalPath4 = ConsoleClient
+	EndGlobalSection
+EndGlobal
